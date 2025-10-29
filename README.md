@@ -8,10 +8,10 @@ AI Resume Parser is a full-stack application that allows users to upload PDF res
 
 - [Features](#features)
 - [Technologies](#technologies)
-- [HowTo](#how-to-use-the-ai-resume-parser)
+- [How to use AI Resure Parser?](#how-to-use-the-ai-resume-parser)
 
 ---
-<video src="https://github.com/popchanovska/ai-resume-parser/blob/main/video_ai.mov" controls></video>
+https://github.com/popchanovska/ai-resume-parser/blob/main/video_ai.mov"
 ---
 ## Features
 
