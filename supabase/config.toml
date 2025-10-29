@@ -1,0 +1,4 @@
+project_id = "fhxhyvuiiloskockatul"
+
+[functions.parse-resume]
+verify_jwt = false
