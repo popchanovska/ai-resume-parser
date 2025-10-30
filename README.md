@@ -70,4 +70,3 @@ npm run dev
 # Step 5: Open the app on the web.
 http://localhost:PORT/
 ```
-# ai-resume-parser
