@@ -1,15 +1,16 @@
+/* import Tailwind’s built-in CSS */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /*
 Definition of the design.
-All colors MUST be HSL.
 */
 
+/* (Hue, Saturation, Lightness) */
 @layer base {
   :root {
-    --background: 140 25% 97%;
+    --background: 140 25% 97%; 
     --foreground: 150 25% 15%;
 
     --card: 0 0% 100%;
